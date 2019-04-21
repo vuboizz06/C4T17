@@ -5,4 +5,4 @@
 
 r = int(input("ban kinh:"))
 s = 3.14 * (r**2)
-print("dien tich:")
+print("dien tich:", s)
