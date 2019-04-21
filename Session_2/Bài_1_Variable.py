@@ -3,7 +3,6 @@
 
 #print("hien nay ban", tuoi)
 
-h = int(input("nhap chieu cao hinh tam giac"))
-a = int(input("nhap chieu dai day tam giac"))
-s = (a * h) / 2
-print("Dien tich tam giac la", s)
+r = int(input("ban kinh:"))
+s = 3.14 * (r**2)
+print("dien tich:")
