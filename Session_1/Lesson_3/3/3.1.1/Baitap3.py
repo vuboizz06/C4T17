@@ -1,3 +1,3 @@
 print('Hello everyone')
-print("MinX Member")
+print("MindX Member")
 print("Im Vũ")
